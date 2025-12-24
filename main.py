@@ -1,3 +1,9 @@
+"""
+Dr. Strange AR Magic Filter
+Author: Divyanshu Soni
+Description: Real-time hand gesture based AR filter using OpenCV and MediaPipe.
+"""
+
 import cv2
 import mediapipe as mp
 
